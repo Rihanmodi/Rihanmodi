@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rahul Chaurasiya</h1>
+
+
+<!-- <h1 align="center">Hi 👋, I'm Rahul Chaurasiya</h1> -->
+
+<!-- ![Logo](https://symphonious-froyo-2c6924.netlify.app/20221222_2259031.gif) -->
+
+<img src="https://symphonious-froyo-2c6924.netlify.app/20221222_2259031.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="400" />
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rihanmodi&label=Profile%20views&color=0e75b6&style=flat" alt="rihanmodi" /> </p>
