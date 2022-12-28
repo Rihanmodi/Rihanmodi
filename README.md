@@ -4,6 +4,13 @@
 </p>
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahul-chaurasiya" alt="coder-x27" /></a>
+</p>
+<hr/>
+
+<img align="right" src="/img/Coding image.gif" height='300' width='250'>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul chaurasiya" height="30" width="40" /></a>
