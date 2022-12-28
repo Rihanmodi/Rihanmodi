@@ -28,8 +28,12 @@
    src="https://github-readme-stats.vercel.app/api?username=Rahul-chaurasiya&show_icons=true&theme=tokyonight" 
 />
   <img 
-   src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-chaurasiya&theme=monokai" 
+   src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-chaurasiya&theme=dark&background=000000"
+<!--        http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000) -->
 />
  </p>
 <hr/>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahul-chaurasiya&theme=monokai)](https://git.io/streak-stats) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-chaurasiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
